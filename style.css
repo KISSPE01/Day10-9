@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Quicksand', sans-serif; /*this is a google font*/
+    font-weight: 300;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: 'Times New Roman, sans-serif';
+    font-size: 56px;
+    font-weight: bold;
+}
+
+button {
+    font-family: 'Quicksand', sans-serif; /*this is a google font*/
+    font-size: 20px;
+}
